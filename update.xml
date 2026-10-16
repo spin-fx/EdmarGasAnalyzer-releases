@@ -1,8 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<item>
-  <version>1.2.0.0</version>
-  <url>https://github.com/spin-fx/EdmarGasAnalyzer-releases/releases/download/v1.2.0/EdmarGasAnalyzer_Setup_v1.2.0.exe</url>
-  <changelog>https://github.com/spin-fx/EdmarGasAnalyzer-releases/releases/tag/v1.2.0</changelog>
-  <mandatory>false</mandatory>
-  <args>/SILENT /SUPPRESSMSGBOXES /NORESTART</args>
-</item>
+<version>1.2.1.0</version>
+     <url>https://github.com/spin-fx/EdmarGasAnalyzer-releases/releases/download/v1.2.1/EdmarGasAnalyzer_Setup_v1.2.1.exe</url>
+     <changelog>https://github.com/spin-fx/EdmarGasAnalyzer-releases/releases/tag/v1.2.1</changelog>
